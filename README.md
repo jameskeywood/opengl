@@ -1,5 +1,5 @@
 # opengl
-Repository to store OpenGL work
+- repository to store OpenGL work
 
 ## sources
-https://openglbook.com/the-book.html
+- https://openglbook.com/the-book.html
