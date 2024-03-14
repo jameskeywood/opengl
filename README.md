@@ -1,4 +1,4 @@
 # opengl
 
 ## Summary
-Repository to store OpenGL work.
+Repository to store current OpenGL work.
