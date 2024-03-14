@@ -1,2 +1,2 @@
 # opengl
-- repository to store OpenGL work
+Repository to store OpenGL work.
